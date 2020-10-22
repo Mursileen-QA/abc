@@ -1,0 +1,9 @@
+18:28:02.721 [main] INFO  alpha.demo - hello
+18:28:02.744 [main] ERROR alpha.demo - error
+18:28:02.745 [main] DEBUG alpha.demo - hello
+20:20:33.968 [main] DEBUG alpha.demo - Launching URL
+20:20:39.758 [main] INFO  alpha.demo - URL Launched Successful
+20:20:39.759 [main] DEBUG alpha.demo - finding iframes in page
+20:20:42.161 [main] INFO  alpha.demo - iframes information found
+20:20:42.161 [main] DEBUG alpha.demo - Switching Frame
+20:20:44.820 [main] DEBUG alpha.demo - Finding Email
